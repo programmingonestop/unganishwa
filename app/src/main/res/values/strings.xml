@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unganishwa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Get Connected</string>
+    <string name="nav_header_subtitle">where friends meet</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="chicks">Chicks</string>
+    <string name="dudes">Dudes</string>
+    <string name="whatsapp_admin">WhatsApp Admin</string>
+    <string name="recent">Recent</string>
+    <string name="whatsapp_message">Hello Admin Iam intrested in</string>
+    <string name="tns">By Using Unganishwa, You represent and warrant that You are at least 18 years old. Membership in the Service is void where prohibited. By using this site, You represent and warrant that You have the right, authority, and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement. You may not authorize others to use Your membership, and You may not assign or otherwise transfer Your account to any other person or entity.</string>
+    <string name="terms_conditions">Privacy Policy</string>
+
+</resources>
